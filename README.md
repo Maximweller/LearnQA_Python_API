@@ -1,1 +1,3 @@
-# Репозиторий с домашками для курса "Автоматизация тестирования REST API на Python"
+# About
+
+Homeworks for "REST API automation testing course"
